@@ -1,0 +1,11 @@
+{
+  "name": "kafka-pub-sub-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rahulsbeelur/kafka-pub-sub-starter.git",
+  "author": "Rahul S Beelur",
+  "license": "MIT",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
